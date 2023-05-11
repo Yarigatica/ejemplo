@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+.caja {
+  height: 300px;
+  width: 300px;
+  background-color: aqua;
+}
+.verde {
+  background-color: lightgreen;
+  margin-left: 300px;
+}
+.coral {
+  background-color: coral;
+  margin-left: 600px;
+}
